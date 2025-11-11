@@ -7,7 +7,7 @@ const Testimonials = () => {
     {
       name: "Maria Silva",
       city: "São Paulo, SP",
-      text: "Experiência incrível! O resultado da micropigmentação labial ficou perfeito e muito natural. Recomendo demais o Estúdio Pillon Dias!",
+      text: "Experiência incrível! O resultado da micropigmentação labial ficou perfeito e muito natural. Recomendo demais a Maison Lumière!",
       rating: 5,
     },
     {

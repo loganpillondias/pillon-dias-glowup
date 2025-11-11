@@ -52,8 +52,7 @@ const Contact = () => {
             Agende sua Sessão
           </h2>
           <p className="text-lg text-gray-text max-w-2xl mx-auto">
-            Preencha o formulário e entraremos em contato para confirmar seu
-            atendimento
+            Preencha o formulário e entraremos em contato para confirmar seu atendimento
           </p>
         </div>
 

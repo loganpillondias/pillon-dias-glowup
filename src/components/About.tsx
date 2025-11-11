@@ -8,16 +8,16 @@ const About = () => {
           <div className="fade-in">
             <img
               src={studioInterior}
-              alt="Interior do Estúdio Pillon Dias"
+              alt="Interior da Maison Lumière by Rikelly Pillon"
               className="rounded-lg shadow-lg w-full h-auto"
             />
           </div>
           <div className="slide-in">
             <h2 className="text-4xl md:text-5xl font-playfair font-bold text-foreground mb-6">
-              Sobre o Estúdio
+              Sobre a Maison
             </h2>
             <p className="text-lg text-gray-text mb-4 leading-relaxed">
-              No <strong>Estúdio Pillon Dias</strong>, cada traço é pensado para
+              Na <strong>Maison Lumière by Rikelly Pillon</strong>, cada traço é pensado para
               harmonizar e valorizar sua beleza única. Nossa missão é realçar a
               beleza natural de cada cliente com elegância, precisão e técnicas
               de ponta.
