@@ -13,6 +13,10 @@ export default {
       },
     },
     extend: {
+      fontFamily: {
+        playfair: ['Playfair Display', 'serif'],
+        poppins: ['Poppins', 'sans-serif'],
+      },
       colors: {
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
@@ -57,6 +61,13 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "rose-tea": "hsl(var(--rose-tea))",
+        "beige-light": "hsl(var(--beige-light))",
+        "gold-soft": "hsl(var(--gold-soft))",
+        "gold-light": "hsl(var(--gold-light))",
+        "white-pure": "hsl(var(--white-pure))",
+        "gray-light": "hsl(var(--gray-light))",
+        "gray-text": "hsl(var(--gray-text))",
       },
       borderRadius: {
         lg: "var(--radius)",
