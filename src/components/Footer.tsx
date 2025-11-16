@@ -8,7 +8,7 @@ const Footer = () => {
           {/* Logo e Descrição */}
           <div>
             <h3 className="text-2xl font-playfair font-bold mb-4">
-              Maison Lumière by Rikelly Pillon
+              Pillon Beauty
             </h3>
             <p className="text-card/80 mb-4">
               Realce sua beleza natural com elegância e precisão. Especialistas
@@ -66,7 +66,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-card/20 pt-8 text-center text-card/60">
           <p>
-            © {new Date().getFullYear()} Maison Lumière by Rikelly Pillon. Todos os direitos reservados.
+            © {new Date().getFullYear()} Pillon Beauty. Todos os direitos reservados.
           </p>
           <p className="mt-2">
             <a href="#" className="hover:text-card transition-colors">

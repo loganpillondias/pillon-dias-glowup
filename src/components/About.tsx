@@ -8,7 +8,7 @@ const About = () => {
           <div className="fade-in">
             <img
               src={studioInterior}
-              alt="Interior da Maison Lumière by Rikelly Pillon"
+              alt="Interior da Pillon Beauty"
               className="rounded-lg shadow-lg w-full h-auto"
             />
           </div>
@@ -17,7 +17,7 @@ const About = () => {
               Sobre a Maison
             </h2>
             <p className="text-lg text-gray-text mb-4 leading-relaxed">
-              Na <strong>Maison Lumière by Rikelly Pillon</strong>, cada traço é pensado para
+              Na <strong>Pillon Beauty</strong>, cada traço é pensado para
               harmonizar e valorizar sua beleza única. Nossa missão é realçar a
               beleza natural de cada cliente com elegância, precisão e técnicas
               de ponta.

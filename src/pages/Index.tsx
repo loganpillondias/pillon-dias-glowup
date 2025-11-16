@@ -6,6 +6,8 @@ import Gallery from "@/components/Gallery";
 import Testimonials from "@/components/Testimonials";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import AIAssistant from "@/components/AIAssistant";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 const Index = () => {
   return (
@@ -18,6 +20,8 @@ const Index = () => {
       <Testimonials />
       <Contact />
       <Footer />
+      <AIAssistant />
+      <WhatsAppButton />
     </div>
   );
 };

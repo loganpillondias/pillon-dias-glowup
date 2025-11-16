@@ -32,7 +32,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="text-2xl font-playfair font-bold text-foreground">
-            Maison Lumière by Rikelly Pillon
+            Pillon Beauty
           </div>
 
           {/* Desktop Navigation */}
